@@ -1,0 +1,57 @@
+C:\Users\user\Desktop\0000\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\user\Desktop\0000\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\0000\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\user\Desktop\0000\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\user\Desktop\0000\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\0000\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Desktop\0000\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\user\Desktop\0000\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Desktop\0000\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\user\Desktop\0000\樂透\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\user\Desktop\0000\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Desktop\0000\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\user\Desktop\0000\樂透\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Desktop\0000\樂透\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\user\Desktop\0000\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\0000\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\user\Desktop\0000\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\user\Desktop\0000\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\樂透\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\user\Desktop\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Desktop\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\user\Desktop\樂透\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Desktop\樂透\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\user\Desktop\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\user\Desktop\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\user\Desktop\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\樂透 - 複製\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\user\Desktop\樂透 - 複製\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\user\Desktop\樂透 - 複製\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\樂透 - 複製\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\樂透 - 複製\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\樂透 - 複製\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\樂透 - 複製\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\樂透 - 複製\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\樂透 - 複製\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\樂透 - 複製\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+F:\樂透 - 複製\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\樂透 - 複製\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+G:\樂透\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+G:\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+G:\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+G:\樂透\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+G:\樂透\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+G:\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+G:\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+G:\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+G:\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\樂透\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\樂透\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\樂透\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\樂透\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
